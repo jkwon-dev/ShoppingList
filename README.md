@@ -1,2 +1,3 @@
 # ShoppingList
-This is a class from Dream cording Academy 
+
+This is a class from Dream coding Academy
